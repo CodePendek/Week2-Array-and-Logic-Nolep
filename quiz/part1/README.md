@@ -1,6 +1,6 @@
 # Handling Data Array agar menghasilkan output yg baik | Part 1
 
-## Soal 1
+## Soal 1 (selesai)
 ```js
 /*
 Buatlah sebuah fungsi dengan nama dataHandling dengan sebuah parameter untuk menerima argumen. Argumen yang akan diterima adalah sebuah array yang berisi beberapa array sejumlah n.
@@ -38,7 +38,7 @@ Hobi:  Berkebun
 */
 ```
 
-## Soal 2 
+## Soal 2 (progress)
 pada soal yg kedua, kalian harus belajar method `splice`, `slice`, `join`, 'split', dan lainnya
 ```js
 let input = ["0001", "Roman Alamsyah ", "Bandar Lampung", "21/05/1989", "Membaca"];
