@@ -38,7 +38,7 @@ Hobi:  Berkebun
 */
 ```
 
-## Soal 2 (progress)
+## Soal 2 (Selesai)
 pada soal yg kedua, kalian harus belajar method `splice`, `slice`, `join`, 'split', dan lainnya
 ```js
 let input = ["0001", "Roman Alamsyah ", "Bandar Lampung", "21/05/1989", "Membaca"];
